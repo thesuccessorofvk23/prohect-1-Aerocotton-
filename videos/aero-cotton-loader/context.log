@@ -1,0 +1,9 @@
+# context.log
+
+- Routed: /hyperframes → fresh creation → intent layer (brief fully formed; route table row 6) → /motion-graphics (autonomous, logo-reveal, asset_needs: []).
+- memory reads: media-use scripts absent locally (prefs/recipe probe errored) → no remembered defaults; brief supplies all decisions.
+- init: npx hyperframes init videos/aero-cotton-loader --non-interactive --example=blank --skill=motion-graphics ✓
+- assets: assets/fraunces.woff2 copied from .next/static/media/54fc36028e2bb174-s.p.20jfceqj9zyw9.woff2 (latin Fraunces variable, via built CSS font-face).
+- Director Part 1 (plan): inline (no subagent tool in harness) → shot-plan.json written; category logo-reveal; search decision: NO search (procedural composition, no stock).
+- Director Part 2 (design): inline → scenes/beats/motion finalized in shot-plan.json content.scenes.
+- Builder: next — compositions/index.html per builder-contract (one paused GSAP timeline on window.__timelines["main"], class="clip" + stable ids, fromTo entrances inside clips, seeded PRNG only, no Date/random/network, no repeat:-1, palette via CSS custom properties).

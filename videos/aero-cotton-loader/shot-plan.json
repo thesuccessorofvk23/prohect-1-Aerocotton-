@@ -1,0 +1,67 @@
+{
+  "category": "logo-reveal",
+  "duration_s": 2,
+  "fps": 30,
+  "canvas": { "w": 1920, "h": 1080, "aspect": "16:9" },
+  "style": "Ultra-photorealistic cinematic low-key textile macro: dark espresso/charcoal atmosphere, warm narrow key beams, volumetric haze, real cotton fiber texture, brushed industrial metal, film grain. One continuous dolly move through six beats: FIBER -> THREAD -> LOOM -> WEAVING -> FABRIC -> BRAND REVEAL. Final frame = dark woven textile + AERO COTTON wordmark + thin brass line + tagline, designed to hand off seamlessly into the website's cocoa fabric hero.",
+  "palette": [
+    "#050403",
+    "#171614",
+    "#2a211c",
+    "#e9e2d4",
+    "#b9a98f",
+    "#b08d57",
+    "#c9b99a"
+  ],
+  "font": "Fraunces (self-hosted woff2 from the site, serif fallback Georgia)",
+  "beats": [0.35, 0.65, 1.05, 1.35, 1.7],
+  "export": "mp4",
+  "asset_needs": [],
+  "block": null,
+  "customize": {
+    "note": "No catalog block reused: the six-beat procedural fabric journey has no shipped equivalent. Hand-authored per the logo-reveal module's hand-author path; the brand finale follows logo-outro's spirit (lockup + underline sweep + tagline, no URL pill)."
+  },
+  "content": {
+    "logo": "typographic wordmark (site typeface Fraunces, tracked uppercase ivory)",
+    "tagline": "CRAFTED FOR A BETTER TOMORROW",
+    "url": null,
+    "scenes": [
+      {
+        "id": "s1-fiber",
+        "start": 0,
+        "end": 0.35,
+        "motion": "extreme macro: single SVG cotton fiber (turbulence-displaced stroke + seeded fuzz), narrow warm beam, camera travels alongside; ghost fibers blurred for shallow DoF"
+      },
+      {
+        "id": "s2-thread",
+        "start": 0.35,
+        "end": 0.65,
+        "motion": "fiber becomes seven spun threads entering under tension (staggered slide, micro-jitter), beam widens, guides enter frame edges"
+      },
+      {
+        "id": "s3-loom",
+        "start": 0.65,
+        "end": 1.05,
+        "motion": "camera pulls back: warp sheet, brushed-metal rollers (rolling stripe illusion), shuttle bar beating, eyelet guides, warm industrial pools"
+      },
+      {
+        "id": "s4-weaving",
+        "start": 1.05,
+        "end": 1.35,
+        "motion": "macro weave: hero weft crosses warp with alternating over-segments, formed cloth grows from below, light sweep travels the surface"
+      },
+      {
+        "id": "s5-fabric",
+        "start": 1.35,
+        "end": 1.7,
+        "motion": "full-bleed flowing cloth: parallax fold layers, turbulence weave texture, warm sweep, cloth rises and fills the frame"
+      },
+      {
+        "id": "s6-brand",
+        "start": 1.7,
+        "end": 2,
+        "motion": "cloth darkens to woven cocoa surface; wordmark letters blur-reveal in stagger; brass line sweeps; tagline rises; hold"
+      }
+    ]
+  }
+}
