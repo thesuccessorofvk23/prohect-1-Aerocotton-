@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/1y8f2uefwqip3.css","style"]
+:HL["/_next/static/chunks/0lvmj8sbnav3r.css","style"]
 :HL["/_next/static/media/47fe1b7cd6e6ed85-s.p.3bh2vc0w-r-ll.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/54fc36028e2bb174-s.p.20jfceqj9zyw9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/8e6fa89aa22d24ec-s.p.2o7m9ogm38dql.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -7,4 +7,4 @@
 :HL["/images/editorial/woven-texture.jpg","image"]
 :HL["/images/editorial/textile-interior.jpg","image"]
 :HL["/images/editorial/workshop-detail.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"products","param":null,"prefetchHints":4192,"slots":{"children":{"name":"collection","param":{"type":"d","key":"beach","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"product","param":{"type":"d","key":"flatweave-towel","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"FEAHyRhhpd-jSKG-TDRUV"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"products","param":null,"prefetchHints":4192,"slots":{"children":{"name":"collection","param":{"type":"d","key":"beach","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"product","param":{"type":"d","key":"flatweave-towel","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"3jUicjcVll6LMZxJIuigx"}
